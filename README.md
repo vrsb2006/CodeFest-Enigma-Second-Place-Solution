@@ -1,4 +1,4 @@
-# CodeFest-Enigma-Second-Place-Solution
+# CodeFest Enigma: Second Place Solution
 
 Steps to Reproduce:<br />
 Run “python Final_Submission.py”<br /><br />
